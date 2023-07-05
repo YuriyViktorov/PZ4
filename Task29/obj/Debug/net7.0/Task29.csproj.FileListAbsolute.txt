@@ -1,0 +1,15 @@
+C:\Учёба\Практика\C#\ПЗ4\Task29\bin\Debug\net7.0\Task29.exe
+C:\Учёба\Практика\C#\ПЗ4\Task29\bin\Debug\net7.0\Task29.deps.json
+C:\Учёба\Практика\C#\ПЗ4\Task29\bin\Debug\net7.0\Task29.runtimeconfig.json
+C:\Учёба\Практика\C#\ПЗ4\Task29\bin\Debug\net7.0\Task29.dll
+C:\Учёба\Практика\C#\ПЗ4\Task29\bin\Debug\net7.0\Task29.pdb
+C:\Учёба\Практика\C#\ПЗ4\Task29\obj\Debug\net7.0\Task29.csproj.AssemblyReference.cache
+C:\Учёба\Практика\C#\ПЗ4\Task29\obj\Debug\net7.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба\Практика\C#\ПЗ4\Task29\obj\Debug\net7.0\Task29.AssemblyInfoInputs.cache
+C:\Учёба\Практика\C#\ПЗ4\Task29\obj\Debug\net7.0\Task29.AssemblyInfo.cs
+C:\Учёба\Практика\C#\ПЗ4\Task29\obj\Debug\net7.0\Task29.csproj.CoreCompileInputs.cache
+C:\Учёба\Практика\C#\ПЗ4\Task29\obj\Debug\net7.0\Task29.dll
+C:\Учёба\Практика\C#\ПЗ4\Task29\obj\Debug\net7.0\refint\Task29.dll
+C:\Учёба\Практика\C#\ПЗ4\Task29\obj\Debug\net7.0\Task29.pdb
+C:\Учёба\Практика\C#\ПЗ4\Task29\obj\Debug\net7.0\Task29.genruntimeconfig.cache
+C:\Учёба\Практика\C#\ПЗ4\Task29\obj\Debug\net7.0\ref\Task29.dll
