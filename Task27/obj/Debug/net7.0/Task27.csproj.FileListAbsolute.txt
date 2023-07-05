@@ -1,0 +1,15 @@
+C:\Учёба\Практика\C#\ПЗ4\Task27\bin\Debug\net7.0\Task27.exe
+C:\Учёба\Практика\C#\ПЗ4\Task27\bin\Debug\net7.0\Task27.deps.json
+C:\Учёба\Практика\C#\ПЗ4\Task27\bin\Debug\net7.0\Task27.runtimeconfig.json
+C:\Учёба\Практика\C#\ПЗ4\Task27\bin\Debug\net7.0\Task27.dll
+C:\Учёба\Практика\C#\ПЗ4\Task27\bin\Debug\net7.0\Task27.pdb
+C:\Учёба\Практика\C#\ПЗ4\Task27\obj\Debug\net7.0\Task27.csproj.AssemblyReference.cache
+C:\Учёба\Практика\C#\ПЗ4\Task27\obj\Debug\net7.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба\Практика\C#\ПЗ4\Task27\obj\Debug\net7.0\Task27.AssemblyInfoInputs.cache
+C:\Учёба\Практика\C#\ПЗ4\Task27\obj\Debug\net7.0\Task27.AssemblyInfo.cs
+C:\Учёба\Практика\C#\ПЗ4\Task27\obj\Debug\net7.0\Task27.csproj.CoreCompileInputs.cache
+C:\Учёба\Практика\C#\ПЗ4\Task27\obj\Debug\net7.0\Task27.dll
+C:\Учёба\Практика\C#\ПЗ4\Task27\obj\Debug\net7.0\refint\Task27.dll
+C:\Учёба\Практика\C#\ПЗ4\Task27\obj\Debug\net7.0\Task27.pdb
+C:\Учёба\Практика\C#\ПЗ4\Task27\obj\Debug\net7.0\Task27.genruntimeconfig.cache
+C:\Учёба\Практика\C#\ПЗ4\Task27\obj\Debug\net7.0\ref\Task27.dll
